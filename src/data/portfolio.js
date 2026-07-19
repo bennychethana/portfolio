@@ -30,7 +30,7 @@ export const roles = {
   fullstack: {
     slug: 'fullstack',
     label: 'Full-Stack Engineer',
-    short: 'Full-Stack',
+    short: 'Backend/Full-Stack',
     accent: '#c4623f', // terracotta
     accentSoft: '#f3d9cb',
     tagline: 'Cloud-native systems, end to end.',
